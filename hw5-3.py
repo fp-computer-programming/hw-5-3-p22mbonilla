@@ -6,10 +6,10 @@ import calendar
 calendar.TextCalendar().pryear(2020)
 
 # Question 2
-print(calendar.firstweekday("Su"))
+calendar.setfirstweekday
 
 # Question 3
-print(calendar.monthcalendar(2004, 12))
+calendar.monthcalendar(2004, 12)
 
 # Question 5
 print(calendar.isleap)
